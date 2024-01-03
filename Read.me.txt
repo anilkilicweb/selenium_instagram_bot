@@ -1,2 +1,0 @@
-two factor aut must be closed.
-# https://chromedriver.chromium.org/ 
