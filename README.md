@@ -1,6 +1,6 @@
 PROJECT DESCRIPTION
 
-It is an Instagram bot created with selenium. You can see the followers and followings of the account you want to view.
+It is an Instagram bot created with Selenium. You can see the followers and followings of the account you want to view.
 
 CAREFUL FOR BELOW WARNINGS
 
