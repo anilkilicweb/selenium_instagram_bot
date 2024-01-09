@@ -1,4 +1,8 @@
-CAREFUL FOR BELOW WARNINGS.
+PROJECT DESCRIPTION
+
+It is an Instagram bot created with selenium. You can see the followers and followings of the account you want to view.
+
+CAREFUL FOR BELOW WARNINGS
 
 1) Two factor aut must be closed for your instagram account.
 
